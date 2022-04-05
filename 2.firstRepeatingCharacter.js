@@ -12,5 +12,5 @@ function firstRepeatingCharacter(str){
       visited.add(char);
   }
   
-  return '\0'
+  return '\0';
 }
